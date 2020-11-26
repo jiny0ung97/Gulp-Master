@@ -1,0 +1,22 @@
+{
+  "name": "gulp-master",
+  "version": "1.0.0",
+  "description": "Learn Gulp by building an awesome development environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiny0ung97/Gulp-Master.git"
+  },
+  "author": "jiny0ung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiny0ung97/Gulp-Master/issues"
+  },
+  "homepage": "https://github.com/jiny0ung97/Gulp-Master#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
