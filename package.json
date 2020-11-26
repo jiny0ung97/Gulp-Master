@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/jiny0ung97/Gulp-Master#readme",
   "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/preset-env": "^7.12.7",
+    "@babel/register": "^7.12.1",
     "gulp": "^4.0.2",
     "gulp-cli": "^2.3.0"
   }
